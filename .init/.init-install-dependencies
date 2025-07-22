@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/daily-to-do-list-manager-b3e22f30/todo_frontend"
+}
